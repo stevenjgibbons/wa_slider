@@ -1,6 +1,10 @@
 # wa_slider
 A python program that reads seismic waveforms from two events and allows the user to slide one over the other, picking a reference time  
 
+Version 1.0.0 of wa_slider is permanently archived on Zenodo at https://doi.org/10.5281/zenodo.18301929 
+
+[![DOI](https://zenodo.org/badge/1074083284.svg)](https://doi.org/10.5281/zenodo.18301929)
+
 This is purely a development code and has yet to be seriously tested or applied to any documented study.  
 
 # Example  

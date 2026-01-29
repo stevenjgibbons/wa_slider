@@ -3,7 +3,10 @@ A python program that reads seismic waveforms from two events and allows the use
 
 Version 1.0.0 of wa_slider is permanently archived on Zenodo at https://doi.org/10.5281/zenodo.18301929 
 
-[![DOI](https://zenodo.org/badge/1074083284.svg)](https://doi.org/10.5281/zenodo.18301929)
+[![DOI](https://zenodo.org/badge/1074083284.svg)](https://doi.org/10.5281/zenodo.18301929)  
+
+[![SQAaaS badge shields.io](https://img.shields.io/badge/sqaaas%20software-bronze-e6ae77)](https://api.eu.badgr.io/public/assertions/bhluJFrxTty2Twhzer-h8w "SQAaaS bronze badge achieved")  
+[![SQAaaS badge](https://github.com/EOSC-synergy/SQAaaS/raw/master/badges/badges_150x116/badge_software_bronze.png)](https://api.eu.badgr.io/public/assertions/bhluJFrxTty2Twhzer-h8w "SQAaaS bronze badge achieved")  
 
 This is purely a development code and has yet to be seriously tested or applied to any documented study.  
 
